@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I have expertise in Node js, Typescript, PHP, Laravel, Vuejs.
 - 🌱 I’m currently learning Redux in Reactjs and also private Blockchain Technologies
 - 📫 How to reach me: 
